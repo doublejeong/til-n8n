@@ -4,6 +4,26 @@
 
 "가짜는 기록하지 않는다"는 원칙 아래, 단순한 지식의 나열이 아니라 직접 실행하고 검증한 자산만 남깁니다.
 
+## 지식 카테고리
+
+<details>
+    <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
+    <!-- TODO 여기에 들어갈거임 -->
+</details>
+<br>
+
+<details>
+    <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
+    <!-- TODO 여기에 들어갈거임 -->
+</details>
+<br>
+
+<details>
+    <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+    <!-- TODO 여기에 들어갈거임 -->
+</details>
+<br>
+
 ## 🛠 작성 및 관리 규칙
 
 일관된 지식 자산화를 위해 아래 규칙을 기준으로 문서를 작성하고 관리합니다.
