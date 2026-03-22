@@ -10,29 +10,25 @@
     <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
 - [2026-03-21-n8n-첫번째-워크플로우-자동화](n8n/2026-03-21-n8n-첫번째-워크플로우-자동화.md)
-    <!-- TODO 여기에 들어갈거임 -->
+
 </details>
 <br>
 
 <details>
     <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
-- [2026-03-22-%EC%8B%A4%ED%8A%B8%EB%A1%9C-%EB%A7%8C%EB%8D%B0%EC%BD%94-%EC%84%A4%EB%AA%85](python/2026-03-22-%EC%8B%A4%ED%8A%B8%EB%A1%9C-%EB%A7%8C%EB%8D%B0%EC%BD%94-%EC%84%A4%EB%AA%85.md)
-
 - [2026-03-22-팝업창-클릭시-출력](python/2026-03-22-팝업창-클릭시-출력.md)
-
-- [2026-03-22-%EC%8B%A4%ED%9D%B4%EB%AF%B8-%EC%82%AC%EA%B0%81%EB%8A%94-%EB%A7%8C%EB%93%A4%EA%B8%B0](python/2026-03-22-%EC%8B%A4%ED%9D%B4%EB%AF%B8-%EC%82%AC%EA%B0%81%EB%8A%94-%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 - [2026-03-22-자바스크립트-화살표함수-과-일반함수-차이](python/2026-03-22-자바스크립트-화살표함수-과-일반함수-차이.md)
 
 - [2026-03-21-테스트](python/2026-03-21-테스트.md)
-    <!-- TODO 여기에 들어갈거임 -->
+
 </details>
 <br>
 
 <details>
     <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
-    <!-- TODO 여기에 들어갈거임 -->
+
 </details>
 <br>
 
