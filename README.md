@@ -17,6 +17,8 @@
 <details>
     <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-22-Google-AI-EMBEDDING-뉴스-크롤링](python/2026-03-22-Google-AI-EMBEDDING-뉴스-크롤링.md)
+
 - [2026-03-22-Google-AI-이MBEDDING-뉴스-크롤링](python/2026-03-22-Google-AI-이MBEDDING-뉴스-크롤링.md)
 
 - [2026-03-22-팝업창-클릭시-출력](python/2026-03-22-팝업창-클릭시-출력.md)
