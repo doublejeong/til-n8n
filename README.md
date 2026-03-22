@@ -45,6 +45,15 @@
 </details>
 <br>
 
+
+<details>
+    <summary style="font-size: 16px;"><strong id="nlp">Nlp (전체 보기)</strong></summary>
+
+- [2026-03-22-Google-AI의-embedding-기술을-사용하여-크롤링한-뉴스-기사-데이터를-embeddings로-변환](nlp/2026-03-22-Google-AI의-embedding-기술을-사용하여-크롤링한-뉴스-기사-데이터를-embeddings로-변환.md)
+    <!-- TODO 여기에 들어갈거임 -->
+</details>
+<br>
+
 ## 🛠 작성 및 관리 규칙
 
 일관된 지식 자산화를 위해 아래 규칙을 기준으로 문서를 작성하고 관리합니다.
