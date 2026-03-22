@@ -17,6 +17,8 @@
 <details>
     <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-22-자바스크립트-화살표함수-과-일반함수-차이](python/2026-03-22-자바스크립트-화살표함수-과-일반함수-차이.md)
+
 - [2026-03-21-테스트](python/2026-03-21-테스트.md)
     <!-- TODO 여기에 들어갈거임 -->
 </details>
