@@ -109,6 +109,14 @@
 </details>
 <br>
 
+
+<details>
+    <summary style="font-size: 16px;"><strong id="http">Http (전체 보기)</strong></summary>
+
+- [2026-06-29-HTTP-메소드-정리](http/2026-06-29-HTTP-메소드-정리.md)
+</details>
+<br>
+
 ## 🛠 작성 및 관리 규칙
 
 일관된 지식 자산화를 위해 아래 규칙을 기준으로 문서를 작성하고 관리합니다.
