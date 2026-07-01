@@ -73,6 +73,8 @@
 
 - [2026-03-29-CSS-Only-Anchor-Link](css/2026-03-29-CSS-Only-Anchor-Link.md)
 - [2026-06-27-CSS-블렌드-모드-활용](css/2026-06-27-CSS-블렌드-모드-활용.md)
+- [2026-06-30-BEM-클래스-작성-규칙](css/2026-06-30-BEM-클래스-작성-규칙.md)
+
 
 </details>
 <br>
