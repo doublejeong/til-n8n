@@ -108,6 +108,8 @@
     <summary style="font-size: 16px;"><strong id="terminal">Terminal (전체 보기)</strong></summary>
 
 - [2026-06-14-zshrc-alias-setting](terminal/2026-06-14-zshrc-alias-setting.md)
+- [2026-07-02-macOS-Terminal-History-Configuration](terminal/2026-07-02-macOS-Terminal-History-Configuration.md)
+
 </details>
 <br>
 
