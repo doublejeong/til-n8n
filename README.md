@@ -134,6 +134,8 @@
     <summary style="font-size: 16px;"><strong id="frontend">Frontend (전체 보기)</strong></summary>
 
 - [2026-07-03-layout-shift-aspect-ratio](frontend/2026-07-03-layout-shift-aspect-ratio.md)
+- [2026-07-23-Frontend-Interview-Questions](frontend/2026-07-23-Frontend-Interview-Questions.md)
+
 </details>
 <br>
 
