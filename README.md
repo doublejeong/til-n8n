@@ -100,6 +100,8 @@
     <summary style="font-size: 16px;"><strong id="webdev">Webdev (전체 보기)</strong></summary>
 
 - [2026-03-30-Codepen-io-간단-코드-실습](webdev/2026-03-30-Codepen-io-간단-코드-실습.md)
+- [2026-07-30-웹-개발-기본-용어-정리](webdev/2026-07-30-웹-개발-기본-용어-정리.md)
+
 </details>
 <br>
 
