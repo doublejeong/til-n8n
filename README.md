@@ -157,6 +157,14 @@
 </details>
 <br>
 
+
+<details>
+    <summary style="font-size: 16px;"><strong id="homebrew">Homebrew (전체 보기)</strong></summary>
+
+- [2026-10-06-Homebrew란-무엇인가](homebrew/2026-10-06-Homebrew란-무엇인가.md)
+</details>
+<br>
+
 ## 🛠 작성 및 관리 규칙
 
 일관된 지식 자산화를 위해 아래 규칙을 기준으로 문서를 작성하고 관리합니다.
